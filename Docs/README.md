@@ -2,6 +2,7 @@
 ![Stars](https://img.shields.io/github/stars/nova0nebula/Ventura)
 ![Licence](https://badgen.net/static/license/MIT/blue)
 
+![Ventura](https://raw.githubusercontent.com/nova0nebula/Ventura/branch/Assets/Images/name.png)
 
 <div style="text-align: center;">
   <h1>Ventura</h1>
