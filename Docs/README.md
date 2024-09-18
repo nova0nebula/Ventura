@@ -3,9 +3,7 @@
 ![Licence](https://badgen.net/static/license/MIT/blue)
 
 
-<div style="text-align: center;">
-  <h1>Ventura</h1>
-</div>
+# Ventura
 
 ## 📋**Introduction**
 
