@@ -49,7 +49,7 @@ C++ is a general-purpose programming language created by Bjarne Stroustrup as an
   2. **Install Homebrew** (if not already installed) and GCC:
 
      ```bash
-     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     /bin/Bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
      brew install gcc
      ```
 

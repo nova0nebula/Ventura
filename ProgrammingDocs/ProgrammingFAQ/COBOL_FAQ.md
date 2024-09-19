@@ -43,7 +43,7 @@ COBOL (Common Business-Oriented Language) is a high-level programming language d
   1. **Install Homebrew** (if not already installed) and GNU COBOL:
 
      ```bash
-     /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+     /bin/Bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
      brew install gnu-cobol
      ```
 

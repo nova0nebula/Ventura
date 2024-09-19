@@ -37,7 +37,7 @@ Bash (Bourne Again Shell) is a command-line interpreter and scripting language u
 On Unix-based systems, Bash is typically pre-installed. You can check if Bash is installed and view its version using the following command:
 
 ```bash
-bash --version
+Bash --version
 ```
 
 ### **2. How do I install Bash on different operating systems?**
@@ -46,16 +46,16 @@ bash --version
   Bash is usually pre-installed. To install or update Bash, use your distribution's package manager:
 
   ```bash
-  sudo apt-get install bash   # Ubuntu/Debian
-  sudo yum install bash       # CentOS/RHEL
-  sudo dnf install bash       # Fedora
+  sudo apt-get install Bash   # Ubuntu/Debian
+  sudo yum install Bash       # CentOS/RHEL
+  sudo dnf install Bash       # Fedora
   ```
 
 - **macOS**:
   Bash is included by default. To update Bash, you can use Homebrew:
 
   ```bash
-  brew install bash
+  brew install Bash
   ```
 
 - **Windows**:
@@ -116,7 +116,7 @@ Variables in Bash are used to store and manipulate data.
   2. Add the shebang line and script commands:
 
   ```bash
-  #!/bin/bash
+  #!/bin/Bash
   echo "Hello, World!"
   ```
 
@@ -199,7 +199,7 @@ Use `bash -x` to execute a script with debug information.
 
 - **Example**:
   ```bash
-  bash -x myscript.sh
+  Bash -x myscript.sh
   ```
 
 ### **2. What are some useful Bash debugging tools?**

@@ -25,7 +25,7 @@ Bash (Bourne Again Shell) is a Unix shell and command language used as the defau
 
    **Script File (`hello.sh`):**
    ```bash
-   #!/bin/bash
+   #!/bin/Bash
    echo "Hello, World!"
    ```
 
@@ -91,7 +91,7 @@ Bash (Bourne Again Shell) is a Unix shell and command language used as the defau
 Variables store data that can be used later in the script:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 name="Alice"
 echo "Hello, $name!"
 ```
@@ -108,7 +108,7 @@ export PATH="/usr/local/bin:$PATH"
 Bash supports `if`, `else`, and `elif` for decision-making:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 if [ "$1" -gt 10 ]; then
     echo "Number is greater than 10"
 elif [ "$1" -eq 10 ]; then
@@ -124,7 +124,7 @@ Loops allow you to iterate over a set of values:
 - **`for` Loop**:
 
   ```bash
-  #!/bin/bash
+  #!/bin/Bash
   for i in {1..5}; do
       echo "Iteration $i"
   done
@@ -133,7 +133,7 @@ Loops allow you to iterate over a set of values:
 - **`while` Loop**:
 
   ```bash
-  #!/bin/bash
+  #!/bin/Bash
   count=1
   while [ $count -le 5 ]; do
       echo "Count $count"
@@ -144,7 +144,7 @@ Loops allow you to iterate over a set of values:
 - **`until` Loop**:
 
   ```bash
-  #!/bin/bash
+  #!/bin/Bash
   count=1
   until [ $count -gt 5 ]; do
       echo "Count $count"
@@ -157,7 +157,7 @@ Loops allow you to iterate over a set of values:
 Functions help to organize and reuse code:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 function greet {
     echo "Hello, $1!"
 }
@@ -169,7 +169,7 @@ greet "Alice"
 Functions can return values using the `return` statement:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 function add {
     local sum=$(( $1 + $2 ))
     echo $sum
@@ -184,7 +184,7 @@ echo "The sum is $result"
 Use the `read` command to get user input:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 echo "Enter your name:"
 read name
 echo "Hello, $name!"
@@ -194,7 +194,7 @@ echo "Hello, $name!"
 Redirect output to a file using `>` or `>>`:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 echo "This is a log file" > logfile.txt
 ```
 
@@ -210,7 +210,7 @@ ls | grep "file"
 Use comments to explain the purpose of your script and code sections:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 # This script greets the user
 name="Alice"
 echo "Hello, $name!"
@@ -220,7 +220,7 @@ echo "Hello, $name!"
 Check for errors and handle them appropriately:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 if ! command -v curl &> /dev/null; then
     echo "curl is not installed. Please install it."
     exit 1
@@ -235,7 +235,7 @@ Maintain consistent formatting and indentation for readability.
 Enable debugging to trace the execution of commands:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 set -x
 echo "This is a debug example"
 ```
@@ -244,7 +244,7 @@ echo "This is a debug example"
 Handle errors and cleanup using `trap`:
 
 ```bash
-#!/bin/bash
+#!/bin/Bash
 function cleanup {
     echo "Cleaning up..."
 }
