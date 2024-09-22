@@ -1,5 +1,5 @@
 let spreadsheet = [];
-let indexNotCalculated = []; //all index of spreadsheet not calculated
+let indexNotCalculated = [];
 const N = parseInt(readline());
 for (let i = 0; i < N; i++) {
   var inputs = readline().split(" ");
@@ -10,10 +10,8 @@ for (let i = 0; i < N; i++) {
     value: null,
   };
   if (canProcess(object, i)) {
-    //Check if we can calcul and calcul if true
     object.value = process(object);
   } else {
-    //If we cant calcul add the index in indexNotCalculated
     indexNotCalculated.push(i);
   }
   spreadsheet.push(object);
@@ -22,20 +20,19 @@ let index = 0;
 while (indexNotCalculated.length != 0) {
   let object = spreadsheet[indexNotCalculated[index]];
   if (canProcess(object)) {
-    //Check if we can calcul
-    object.value = process(object); //calcul
-    indexNotCalculated.splice(index, 1); //delete index in indexNotCalculated
-    index = 0; //reset actuel index (of array indexNotCalculated) check
+    object.value = process(object);
+    indexNotCalculated.splice(index, 1);
+    index = 0;
   } else {
-    index++; //increase index (of array indexNotCalculated)
+    index++;
   }
 }
 for (let i = 0; i < N; i++) {
   console.log(spreadsheet[i].value);
 }
 function process(object) {
-  let valueArg1 = parseInt(object.arg1[0] == "$" ? spreadsheet[parseInt(object.arg1.substring(1))].value : object.arg1); //Get the value of arg1
-  let valueArg2 = parseInt(object.arg2[0] == "$" ? spreadsheet[parseInt(object.arg2.substring(1))].value : object.arg2); //Get the value of arg2
+  let valueArg1 = parseInt(object.arg1[0] == "$" ? spreadsheet[parseInt(object.arg1.substring(1))].value : object.arg1);
+  let valueArg2 = parseInt(object.arg2[0] == "$" ? spreadsheet[parseInt(object.arg2.substring(1))].value : object.arg2);
   let answer = 0;
   switch (object.operation) {
     case "VALUE":
@@ -67,25 +64,21 @@ function canProcess(object, i = -1) {
   }
   if (argIsRef[0] || argIsRef[1]) {
     if (argIsRef[0]) {
-      //Arg1 is ref
       let indexRef = parseInt(object.arg1.substring(1));
       if (indexRef < i || i == -1) {
-        //Check if ths index of the ref has been checked
         if (indexNotCalculated.includes(indexRef)) {
           process = false;
-        } //Check if the ref is in indexNotCalculated
+        }
       } else {
         process = false;
       }
     }
     if (argIsRef[1]) {
-      //Arg2 is ref
       let indexRef = parseInt(object.arg2.substring(1));
       if (indexRef < i || i == -1) {
-        //Check if ths index of the ref has been checked
         if (indexNotCalculated.includes(indexRef)) {
           process = false;
-        } //Check if the ref is in indexNotCalculated
+        }
       } else {
         process = false;
       }
