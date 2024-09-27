@@ -1,9 +1,4 @@
-![Forks](https://img.shields.io/github/forks/nova0nebula/Ventura)
-![Stars](https://img.shields.io/github/stars/nova0nebula/Ventura)
-![Licence](https://badgen.net/static/license/MIT/blue)
-
-
-# Ventura
+![Ventura](https://socialify.git.ci/nova0nebula/Ventura/image?description=1&descriptionEditable=A%20collection%20of%20programming%20language%20references%2C%20small%20programs%2C%20and%20solutions%20to%20various%20coding%20challenges%20from%20different%20websites.&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto)
 
 ## 📋**Introduction**
 
@@ -37,10 +32,4 @@ Please see **[CHANGELOG.md](https://github.com/nova0nebula/Ventura/blob/main/Doc
 
 ## 📧**Contact**
 
-If you have any questions or comments about Ventura, please contact **[CosmicNovaNebula@gmail.com](CosmicNovaNebula@gmail.com)**.
-
-## 🔗**Personal Links**
-
-**[Github](https://github.com/nova0nebula)**
-**[Instagram](https://www.instagram.com/cosmicnovanebula?igsh=MTlueDByeHVzMm1vNg==)**
-**[Twitter](https://x.com/Nova0Nebula?t=QeXHbNgnhaq3QMPCncvrUA&s=09)**
+For support or inquiries, feel free to reach out via email at CosmicNovaNebula@gmail.com.
