@@ -1,6 +1,5 @@
-![Ventura](https://socialify.git.ci/nova0nebula/Ventura/image?description=1&descriptionEditable=A%20collection%20of%20programming%20language%20references%2C%20small%20programs%2C%20and%20solutions%20to%20various%20coding%20challenges%20from%20different%20websites.&font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto)
+![Ventura](https://socialify.git.ci/nova0nebula/Ventura/image?font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto)
 
-## 📋**Introduction**
 
 A comprehensive collection of programming language references, small programs, and solutions to various coding challenges from different websites. Perfect for learning, practicing, and exploring diverse programming concepts.
 
