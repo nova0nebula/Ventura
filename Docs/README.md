@@ -4,7 +4,7 @@
 
 A comprehensive collection of programming language references, small programs, and solutions to various coding challenges from different websites. Perfect for learning, practicing, and exploring diverse programming concepts.
 
-## 📄**License**
+## 🛡️**License**
 
 Ventura is released under the MIT License. See the **[LICENSE.md](https://github.com/nova0nebula/Ventura/blob/main/Docs/LICENSE.md)** file for details.
 
