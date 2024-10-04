@@ -1,7 +1,7 @@
 ![Ventura](https://socialify.git.ci/nova0nebula/Ventura/image?font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto)
 
 
-A comprehensive collection of programming language references, small programs, and solutions to various coding challenges from different websites. Perfect for learning, practicing, and exploring diverse programming concepts.
+Ventura is an ever-expanding project designed to offer a wide range of resources across various domains. Continuously evolving, Ventura provides solutions, guides, and insights on a multitude of topics. Whether you're a developer, student, or simply curious, Ventura aims to be your go-to source for diverse information.
 
 ## 🛡️**License**
 
@@ -15,7 +15,7 @@ Ventura was created by **[nova0nebula](https://github.com/nova0nebula)**.
 
 **Q:** What is Ventura?
 
-**A:** Ventura is a comprehensive collection of programming language references, small programs, and solutions to various coding challenges from different websites. Perfect for learning, practicing, and exploring diverse programming concepts.
+**A:** Ventura is an ever-expanding project designed to offer a wide range of resources across various domains. Continuously evolving, Ventura provides solutions, guides, and insights on a multitude of topics. Whether you're a developer, student, or simply curious, Ventura aims to be your go-to source for diverse information.
 
 **Q:** Can I contribute to Ventura?
 
