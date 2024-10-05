@@ -1,4 +1,4 @@
-![CodinGame_id27TVMdNg_0.png](..%2F..%2FAssets%2FImages%2FCodinGame_id27TVMdNg_0.png)
+![CodinGame Logo](..%2F..%2FAssets%2FImages%2FCodinGame_Logo.png)
 
 # Program Solutions for CodinGame
 
