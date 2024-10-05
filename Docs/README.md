@@ -7,9 +7,9 @@ Ventura is an ever-expanding project designed to offer a wide range of resources
 
 Ventura is released under the MIT License. See the **[LICENSE.md](https://github.com/nova0nebula/Ventura/blob/main/Docs/LICENSE.md)** file for details.
 
-## ✍️**Author**
+## ✍️**Creator/Manager**
 
-Ventura was created by **[nova0nebula](https://github.com/nova0nebula)**.
+Ventura is created and managed by **[nova0nebula](https://github.com/nova0nebula)**.
 
 ## ❓**FAQ**
 
@@ -19,7 +19,7 @@ Ventura was created by **[nova0nebula](https://github.com/nova0nebula)**.
 
 **Q:** Can I contribute to Ventura?
 
-**A:** Sorry, but we currently don't accept any contributions. Contributions might be opened in the future.
+**A:** Sure! You can suggest what to add in the Discord.
 
 **Q:** What license is Ventura released under?
 
