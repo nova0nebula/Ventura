@@ -2,11 +2,8 @@
 #include <string>
 #include <vector>
 #include <algorithm>
-
 using namespace std;
-
 const int CHAR_REF = 'A';
-
 int main()
 {
   int l, h;

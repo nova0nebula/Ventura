@@ -36,7 +36,6 @@ for (let i = 0; i < H; i++) {
   ASCII.push(readline());
 }
 for (let i = 0; i < 27; i++) {
-  //Crée un tableau avec chaque caractére ASCII
   var temp = {
     key: findByValue(i + 1, KeyValue),
     ascii: [],
@@ -49,7 +48,6 @@ for (let i = 0; i < 27; i++) {
   KeyASCII.push(temp);
 }
 for (let i = 0; i < H; i++) {
-  //Write text
   var line = "";
   for (let a = 0; a < T.length; a++) {
     line += KeyASCII[findByKey(T[a], KeyValue) - 1].ascii[i];

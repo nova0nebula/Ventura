@@ -19,7 +19,7 @@ Ventura is created and managed by **[nova0nebula](https://github.com/nova0nebula
 
 **Q:** Can I contribute to Ventura?
 
-**A:** Sure! You can suggest what to add in the Discord.
+**A:** Sorry, but we are not accepting contributions currently.
 
 **Q:** What license is Ventura released under?
 
