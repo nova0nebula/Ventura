@@ -7,9 +7,7 @@ The "Program Solutions for CodinGame" is a collection of answers to coding probl
 **What is CodinGame?**
 CodinGame is a website where people can practice coding by solving puzzles.
 
-All programs have been tested to ensure they work for their respective puzzles.
-
-*Extra: If you are crazy or weird enough, you can go look at the squished versions of the code.*
+All programs have been tested to ensure they work for their respective puzzles. If you do find any program that doesn't work, please do contact me.
 
 ## Puzzles
 
@@ -25,7 +23,7 @@ All programs have been tested to ensure they work for their respective puzzles.
 |            ASCII Art             | [C#](https://github.com/nova0nebula/Ventura/blob/22b8b50e555475cde7b6842d0cef612ffbcc271d/Programming/CodinGame/Puzzles/Easy/ASCII%20Art/C%23), [C++](https://github.com/nova0nebula/Ventura/blob/22b8b50e555475cde7b6842d0cef612ffbcc271d/Programming/CodinGame/Puzzles/Easy/ASCII%20Art/C++), [Javascript](https://github.com/nova0nebula/Ventura/blob/22b8b50e555475cde7b6842d0cef612ffbcc271d/Programming/CodinGame/Puzzles/Easy/ASCII%20Art/Javascript), [Python](https://github.com/nova0nebula/Ventura/blob/22b8b50e555475cde7b6842d0cef612ffbcc271d/Programming/CodinGame/Puzzles/Easy/ASCII%20Art/Python) |              Strings, Arrays, Loops               |
 |            Asteroids             |                                                                                                                                                                                                                             [Javascript](https://github.com/nova0nebula/Ventura/blob/22b8b50e555475cde7b6842d0cef612ffbcc271d/Programming/CodinGame/Puzzles/Easy/Asteroids/Javascript)                                                                                                                                                                                                                             |                       None                        |
 | Balanced Ternary Computer Encode |                                                                                                                                                                                                              [Javascript](https://github.com/nova0nebula/Ventura/blob/22b8b50e555475cde7b6842d0cef612ffbcc271d/Programming/CodinGame/Puzzles/Easy/Balanced%20Ternary%20Computer%20Encode/Javascript)                                                                                                                                                                                                               |                    Arithmetic                     |
-|Bank Robbers|
+|           Bank Robbers           |                                                                                                                                                                                                                          [Javascript](https://github.com/nova0nebula/Ventura/blob/3e9ee43c0d03315f4cd2b4bd9215e48c0026f193/Programming/CodinGame/Puzzles/Easy/Bank%20Robbers/Javascript)                                                                                                                                                                                                                           |                       None                        |
 
 ### Medium Puzzles
 | Title | Solution(s) | Topic(s) |

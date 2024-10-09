@@ -1,11 +1,11 @@
 ![Ventura](https://socialify.git.ci/nova0nebula/Ventura/image?font=Inter&forks=1&issues=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Auto)
 
 
-Ventura is an ever-expanding project designed to offer a wide range of resources across various domains. Continuously evolving, Ventura provides solutions, guides, and insights on a multitude of topics. Whether you're a developer, student, or simply curious, Ventura aims to be your go-to source for diverse information.
+Ventura is an ever-expanding project that contains my work. What this project contains ranges from website puzzle solutions, Discord bots and Programming guides.
 
 ## 🛡️**License**
 
-Ventura is released under the MIT License. See the **[LICENSE.md](https://github.com/nova0nebula/Ventura/blob/main/Docs/LICENSE.md)** file for details.
+Ventura is released under the MIT License. See the **[license](https://github.com/nova0nebula/Ventura/blob/main/Docs/LICENSE.md)** file for details.
 
 ## ✍️**Creator/Manager**
 
@@ -15,19 +15,19 @@ Ventura is created and managed by **[nova0nebula](https://github.com/nova0nebula
 
 **Q:** What is Ventura?
 
-**A:** Ventura is an ever-expanding project designed to offer a wide range of resources across various domains. Continuously evolving, Ventura provides solutions, guides, and insights on a multitude of topics. Whether you're a developer, student, or simply curious, Ventura aims to be your go-to source for diverse information.
+**A:** Ventura is an ever-expanding project that contains my work.
 
-**Q:** Can I contribute to Ventura?
+**Q:** Can I suggest something to add to Ventura?
 
-**A:** Sorry, but we are not accepting contributions currently.
+**A:** Sure, just drop me an email.
 
 **Q:** What license is Ventura released under?
 
-**A:** Ventura is released under the MIT License. See the **[LICENSE.md](https://github.com/nova0nebula/Ventura/blob/main/Docs/LICENSE.md)** file for details.
+**A:** Ventura is released under the MIT License. See the **[license](https://github.com/nova0nebula/Ventura/blob/main/Docs/LICENSE.md)** file for details.
 
 ## 📝**Changelog**
 
-Please see **[CHANGELOG.md](https://github.com/nova0nebula/Ventura/blob/main/Docs/CHANGELOG.md)** for the full changelog history.
+Please see **[changelog](https://github.com/nova0nebula/Ventura/blob/main/Docs/CHANGELOG.md)** for the full changelog history.
 
 ## 📧**Contact**
 
